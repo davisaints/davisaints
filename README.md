@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey, glad to see you here! 👋
 
-<!--
-**davisaints/davisaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Davi, a Release Quality Engineer by day and a Java Developer by night.
 
-Here are some ideas to get you started:
+Currently, I work as a Release Quality Engineer at [Liferay](https://www.liferay.com/en/home).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santosz/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi.santos4357@gmail.com)
+
+---
+
+### ⚙️ Technologies I use daily:
+- `.java`
+- `.ts`
+- `.sh`
+
+### 🚀 Projects:
+- [Budget Control API](https://github.com/davisaints/budget-control/blob/prod/README.md)
+
+### 📚 I’m currently learning/improving on:
+- Java
+- Spring Boot
+- Playwright
+- Data Structures and Algorithms
