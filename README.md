@@ -17,6 +17,7 @@ Currently, I work as a Release Quality Engineer at [Liferay](https://www.liferay
 
 ### 🚀 Projects:
 - [Budget Control API](https://github.com/davisaints/budget-control/blob/prod/README.md)
+- [Demo of automations with Playwright](https://github.com/davisaints/playwright-demos)
 
 ### 📚 I’m currently learning/improving on:
 - Java
