@@ -1,14 +1,13 @@
-## Hey, glad to see you here! 👋
+## Hey, glad to see you here! :wave:
 
-I’m Davi, a Release Quality Engineer by day and a Java Developer by night.
-
-Currently, I work as a Release Quality Engineer at [Liferay](https://www.liferay.com/en/home).
-
-### 📫 How to reach me:
-
+I’m a Release Quality Engineer from [Liferay](https://www.liferay.com/en/home).
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santosz/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi.santos4357@gmail.com)
 
----
+<details>
+<summary>
+  More about me
+</summary>
 
 ### ⚙️ Technologies I use daily:
 - `.java`
@@ -17,10 +16,12 @@ Currently, I work as a Release Quality Engineer at [Liferay](https://www.liferay
 
 ### 🚀 Projects:
 - [Budget Control API](https://github.com/davisaints/budget-control/blob/prod/README.md)
-- [Demo of automations with Playwright](https://github.com/davisaints/playwright-demos)
+- [Playwright Test Automations](https://github.com/davisaints/playwright-demos)
 
-### 📚 I’m currently learning/improving on:
+### 📚 I’m currently learning:
 - Java
 - Spring Boot
 - Playwright
-- Data Structures and Algorithms
+
+### 🎯 Future Plans:
+I’m focusing on transitioning to a Backend Developer role.
