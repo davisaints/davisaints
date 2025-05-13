@@ -20,5 +20,6 @@ I’m a Software Engineer at [Liferay](https://www.liferay.com/en/home).
 
 ### 📚 I’m currently learning/improving:
 - Java
-- Spring Boot
-- Playwright
+- Data structures and algorithms
+- System architecture
+- Database
