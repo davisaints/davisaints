@@ -22,4 +22,4 @@ I’m a Software Engineer at [Liferay](https://www.liferay.com/en/home).
 - Java
 - Data structures and algorithms
 - System architecture
-- Database
+- Databases
