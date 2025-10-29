@@ -10,16 +10,17 @@ I’m a Software Engineer at [Liferay](https://www.liferay.com/en/home).
 </summary>
 
 ### ⚙️ Technologies I use daily:
-- Shell script
-- Java
 - Docker
+- Java
+- Jenkisn
+- Shell script
 
 ### 🚀 Projects:
 - [Budget Control API](https://github.com/davisaints/budget-control/blob/prod/README.md)
 - [Playwright Test Automations](https://github.com/davisaints/playwright-demos)
 
 ### 📚 I’m currently learning/improving:
-- Java
 - Data structures and algorithms
-- System architecture
 - Databases
+- Java
+- System architecture
