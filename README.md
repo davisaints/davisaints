@@ -12,7 +12,7 @@ I’m a Software Engineer at [Liferay](https://www.liferay.com/en/home).
 ### ⚙️ Technologies I use daily:
 - Docker
 - Java
-- Jenkisn
+- Jenkins
 - Shell script
 
 ### 🚀 Projects:
