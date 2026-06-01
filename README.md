@@ -21,6 +21,4 @@ I’m a Software Engineer at [Liferay](https://www.liferay.com/en/home).
 
 ### 📚 I’m currently learning/improving:
 - Data structures and algorithms
-- Databases
-- Java
 - System architecture
